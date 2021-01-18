@@ -1,20 +1,9 @@
-# cra-template-typescript
+# cra-template-shortcutboy
 
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+An progressive web app template for [Create React App](https://github.com/facebook/create-react-app),
+using TypeScript.
 
-To use this template, add `--template typescript` when creating a new app.
-
-For example:
-
+### How to use:
 ```sh
-npx create-react-app my-app --template typescript
-
-# or
-
-yarn create react-app my-app --template typescript
+npx create-react-app my-app --scripts-version shortcutboy-react-scripts --template cra-template-shortcutboy
 ```
-
-For more information, please refer to:
-
-- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
-- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
