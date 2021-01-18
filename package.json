@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-shortcutboy",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shortcutBoy/cra-template-shortcutboy",
+    "directory": "cra-template-shortcutboy"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
