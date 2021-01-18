@@ -5,5 +5,11 @@ using TypeScript.
 
 ### How to use:
 ```sh
+npx create-react-app my-app --scripts-version shortcutboy-react-scripts --template shortcutboy
+```
+or
+```sh
 npx create-react-app my-app --scripts-version shortcutboy-react-scripts --template cra-template-shortcutboy
 ```
+
+
