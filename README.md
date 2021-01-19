@@ -1,6 +1,6 @@
 # cra-template-shortcutboy
 
-An progressive web app template for [Create React App](https://github.com/facebook/create-react-app),
+An web app template for [Create React App](https://github.com/facebook/create-react-app),
 using TypeScript.
 
 ### How to use:
